@@ -56,7 +56,7 @@ const HomeScreen = props => (
         onPress={() => props.navigation.navigate("Next")}
         title="de Live"
       />
-      <Text>◯</Text>
+      <Text>sarch</Text>
     </View>
 
     <View>
